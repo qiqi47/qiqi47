@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @qiqi47
 - 👀 I’m interested in User Experience/ Human-Centered Interaction
-- 🌱 I’m currently in Gap Year
-- 💞️ I’m looking to find an internship
-- 📫 How to reach me: c756738098@126.com
+- 📫 How to reach me: siqichen@utexas.edu
 - 😎 My portfolio website: https://www.siqi-chen.com/
 
 <!---
