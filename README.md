@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Siqi
-- 👀 I’m interested in UX/UI and Front-end development
+- 💼 UX/UI and Front-end development
 - 📫 How to reach me: siqichen@utexas.edu
 - 😎 My portfolio website: https://www.siqi-chen.com/
 
