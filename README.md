@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Siqi
-- 💼 UX/UI and Front-end development
+- 💼 Full stack developer
 - 📫 How to reach me: siqichen@utexas.edu
 - 😎 My portfolio website: https://www.siqi-chen.com/
 
